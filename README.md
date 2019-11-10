@@ -4,7 +4,7 @@ This application takes a search string from the user and uses it to fetch and di
 #
 **Website: https://mongodbproject4task2.herokuapp.com/**
 #
-**Backend project structure: Android_BackendAPI**
+**Backend project structure: https://github.com/aarushg94/Android_BackendAPI**
 
 # 
 
