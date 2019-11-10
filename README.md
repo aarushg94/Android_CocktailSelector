@@ -4,6 +4,4 @@ This application takes a search string from the user and uses it to fetch and di
 
 **Disclaimer: This was part of a project done at Carnegie Mellon University for Distributed Systems for Information Systems Management (95-702). Any replication of this code in any kind and presented back to CMU would be considered an academic integrity violation.**
 
-**Application Main Page**
-
 ![](https://i.ibb.co/68PXF4b/android-screenshot.png)
